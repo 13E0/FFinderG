@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895635966172",
+    "firebase_url": "https://ffindergc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ffindergc",
+    "storage_bucket": "ffindergc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895635966172:android:ee1930e45a3c0ab0f28c19",
+        "android_client_info": {
+          "package_name": "com.example.ffindergc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895635966172-8tmaur4ji92vjvdhl2vkjv7m6cvtrcsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ffindergc",
+            "certificate_hash": "ea2f2e66566c1ed8bf01fc65d6341129231a7cd2"
+          }
+        },
+        {
+          "client_id": "895635966172-l76m2cbp2a7itu07vusnv7qlbfjgp9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG2k2bNOEQ2YSLfL7iMxHvZzDAbSsn6NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895635966172-l76m2cbp2a7itu07vusnv7qlbfjgp9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
